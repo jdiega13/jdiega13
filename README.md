@@ -59,4 +59,4 @@ I am a Data Science and Economics student at UC Berkeley, operating at the inter
 ## 📬 Let's Connect
 - **Email:** [jamesryan_diega@berkeley.edu](mailto:jamesryan_diega@berkeley.edu)
 - **GitHub:** [@jdiega13](https://github.com/jdiega13)
-- **LinkedIn:** [www.linkedin.com/in/james-diega](www.linkedin.com/in/james-diega) 
+- **LinkedIn:** [James Diega](www.linkedin.com/in/james-diega) 
