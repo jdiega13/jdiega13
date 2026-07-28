@@ -45,10 +45,9 @@ I am a Data Science and Economics student at UC Berkeley, operating at the inter
 
 ## 📈 Git Telemetry & Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdiega13&show_icons=true&theme=tokyonight&count_private=true" alt="James's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiega13&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
+![James's GitHub Streak](https://streak-stats.demolab.com/?user=jdiega13&theme=radical)
+
+![James's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdiega13&layout=compact&theme=radical&langs_count=6)
 
 ---
 
