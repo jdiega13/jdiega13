@@ -27,17 +27,17 @@ I am a Data Science and Economics student at UC Berkeley, operating at the inter
 - **The Solution:** Integrated an active watchOS HealthKit workout session architecture to force persistent foreground execution. Built a calibrated audio engine with randomized acoustic delays ($1.7\text{s} - 3.0\text{s}$) to simulate official starting-gun block cadences.
 - **Tech:** Swift, SwiftUI, watchOS, HealthKit Architecture.
 
-### 🧠 [AI-Powered Decision Intelligence Platform](https://github.com/jdiega13/decision-intelligence-platform)
+### 🧠 [AI-Powered Decision Intelligence Platform](https://github.com/jdiega13/decision-platform)
 *An end-to-end analytics platform transforming unstructured raw datasets into strategic business metrics.*
 - **The Problem:** High operational latency and manual overhead in evaluating multi-scenario business forecasting models.
 - **The Solution:** Engineered raw data ingestion pipelines, statistical forecasting modules, and LLM-generated recommendations into a unified Streamlit UI, drastically reducing manual strategy evaluation timelines.
 - **Tech:** Python, SQL, Pandas, Streamlit, Tableau, Claude/OpenAI APIs.
 
-### 🏢 [Break Through Tech Industry Project and Coursework]([https://github.com/jdiega13/break-through-tech](https://github.com/jdiega13/My-eCornell-Portfolio))
+### 🏢 [Break Through Tech Industry Project and Coursework](https://github.com/jdiega13/My-eCornell-Portfolio)
 *Company-sponsored machine learning and data engineering initiative.*
 - **Summer ML and AI Foundations:** Over the Summer of 2026, I learned machine learning and AI fundamentals through weekly projects.
 
-### 💖 [Valentine's Day Interaction Engine](https://github.com/jdiega13/valentines-day)
+### 💖 [Valentine's Day Interaction Engine](https://github.com/jdiega13/Valentines)
 *A highly dynamic, interactive front-end web project built to experiment with user interaction states and responsive design configurations.*
 - **Tech:** React, JavaScript, CSS Animations, Netlify.
 
