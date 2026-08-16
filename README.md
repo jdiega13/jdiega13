@@ -43,13 +43,6 @@ I am a Data Science and Economics student at UC Berkeley, operating at the inter
 
 ---
 
-## 📈 Git Telemetry & Analytics
-
-![James's GitHub Streak](https://streak-stats.demolab.com/?user=jdiega13&theme=radical)
-
-![James's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdiega13&layout=compact&theme=radical&langs_count=6)
-
----
 
 ## 🏃‍♂️ Beyond the Terminal
 - **Sprint Performance Analytics:** I maintain a longitudinal dataset tracking my own training macrocycles, recovery variables, and strength metrics (Personal Best: 10.88s in the 100m). I use this data to build time-series forecasting models evaluating performance degradation vs. training load thresholds.
